@@ -1,0 +1,14 @@
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\config\SecurityConfig.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\model\Registration.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\service\RegistrationService.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\controller\EventController.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\repository\UserRepository.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\config\DataInitializer.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\VeltechPortalApplication.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\model\Event.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\service\EventService.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\repository\EventRepository.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\repository\RegistrationRepository.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\controller\RegistrationController.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\controller\AuthController.java
+C:\Users\ramla\Documents\event-portal\src\main\java\com\veltech\portal\model\User.java
